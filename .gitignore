@@ -1,0 +1,8 @@
+# Vscode project files
+.vscode
+
+# Temp files
+*~
+
+# Cache python
+_*
